@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jadexing
 - 👀 I’m interested in Meraki programming.
 - 🌱 I’m currently learning- more want to learn Python.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Meraki AP code.
 - 📫 How to reach me- twitter @jamiegprice
 
 <!---
